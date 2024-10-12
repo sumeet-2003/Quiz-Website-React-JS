@@ -1,0 +1,306 @@
+{
+    "testName": "General Awareness Mock Test",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who among the following was the Viceroy of India at the time of the partition of Bengal in 1905?",
+        "options": ["Lord Curzon", "Lord Mountbatten", "Lord Ripon", "Lord Wellesley"],
+        "correctAnswer": "Lord Curzon"
+      },
+      {
+        "id": 2,
+        "question": "The 'Doctrine of Lapse' was introduced by which British Governor-General?",
+        "options": ["Lord Canning", "Lord Dalhousie", "Lord Ripon", "Lord Wellesley"],
+        "correctAnswer": "Lord Dalhousie"
+      },
+      {
+        "id": 3,
+        "question": "Which river is often referred to as 'Dakshin Ganga'?",
+        "options": ["Krishna", "Godavari", "Kaveri", "Mahanadi"],
+        "correctAnswer": "Godavari"
+      },
+      {
+        "id": 4,
+        "question": "In which year was the Indian National Congress split into Moderates and Extremists?",
+        "options": ["1907", "1919", "1920", "1930"],
+        "correctAnswer": "1907"
+      },
+      {
+        "id": 5,
+        "question": "The 'Chipko Movement' in India was related to which of the following?",
+        "options": ["Afforestation", "Saving Wildlife", "Preventing Deforestation", "Anti-Liquor Campaign"],
+        "correctAnswer": "Preventing Deforestation"
+      },
+      {
+        "id": 6,
+        "question": "Who was the first Indian woman to win an Olympic medal?",
+        "options": ["P. T. Usha", "Karnam Malleswari", "Saina Nehwal", "Mary Kom"],
+        "correctAnswer": "Karnam Malleswari"
+      },
+      {
+        "id": 7,
+        "question": "Who was the first woman Governor of an Indian state?",
+        "options": ["Sarojini Naidu", "Indira Gandhi", "Pratibha Patil", "Vijaya Lakshmi Pandit"],
+        "correctAnswer": "Sarojini Naidu"
+      },
+      {
+        "id": 8,
+        "question": "In which year was the nationalisation of Indian banks initiated?",
+        "options": ["1969", "1972", "1955", "1980"],
+        "correctAnswer": "1969"
+      },
+      {
+        "id": 9,
+        "question": "Which of the following countries is not a member of the G20?",
+        "options": ["Spain", "India", "Australia", "South Africa"],
+        "correctAnswer": "Spain"
+      },
+      {
+        "id": 10,
+        "question": "The Indian space mission 'Mangalyaan' was launched to explore which planet?",
+        "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+        "correctAnswer": "Mars"
+      },
+      {
+        "id": 11,
+        "question": "Who was the first Law Minister of independent India?",
+        "options": ["B. R. Ambedkar", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Maulana Abul Kalam Azad"],
+        "correctAnswer": "B. R. Ambedkar"
+      },
+      {
+        "id": 12,
+        "question": "The Second Round Table Conference of 1931 was held in which city?",
+        "options": ["London", "Paris", "Delhi", "Geneva"],
+        "correctAnswer": "London"
+      },
+      {
+        "id": 13,
+        "question": "Which Indian Prime Minister coined the slogan 'Garibi Hatao'?",
+        "options": ["Indira Gandhi", "Rajiv Gandhi", "Lal Bahadur Shastri", "Morarji Desai"],
+        "correctAnswer": "Indira Gandhi"
+      },
+      {
+        "id": 14,
+        "question": "Which of the following metals has the highest electrical conductivity?",
+        "options": ["Gold", "Silver", "Copper", "Aluminum"],
+        "correctAnswer": "Silver"
+      },
+      {
+        "id": 15,
+        "question": "Which Indian ruler is credited with the construction of the Grand Trunk Road?",
+        "options": ["Sher Shah Suri", "Akbar", "Babur", "Humayun"],
+        "correctAnswer": "Sher Shah Suri"
+      },
+      {
+        "id": 16,
+        "question": "The 'Poona Pact' of 1932 was signed between Mahatma Gandhi and which other leader?",
+        "options": ["Jawaharlal Nehru", "Sardar Patel", "B. R. Ambedkar", "Rajendra Prasad"],
+        "correctAnswer": "B. R. Ambedkar"
+      },
+      {
+        "id": 17,
+        "question": "Which is the longest written constitution in the world?",
+        "options": ["United States", "India", "Australia", "Canada"],
+        "correctAnswer": "India"
+      },
+      {
+        "id": 18,
+        "question": "Which Article of the Indian Constitution deals with the establishment of the Supreme Court?",
+        "options": ["Article 124", "Article 75", "Article 50", "Article 356"],
+        "correctAnswer": "Article 124"
+      },
+      {
+        "id": 19,
+        "question": "Who is regarded as the father of the Indian Renaissance?",
+        "options": ["Mahatma Gandhi", "Raja Ram Mohan Roy", "Swami Vivekananda", "Ishwar Chandra Vidyasagar"],
+        "correctAnswer": "Raja Ram Mohan Roy"
+      },
+      {
+        "id": 20,
+        "question": "Which Indian Nobel laureate wrote the national anthems of two countries?",
+        "options": ["Rabindranath Tagore", "C. V. Raman", "Amartya Sen", "Mother Teresa"],
+        "correctAnswer": "Rabindranath Tagore"
+      },
+      {
+        "id": 21,
+        "question": "Which state in India has the largest forest area?",
+        "options": ["Madhya Pradesh", "Arunachal Pradesh", "Chhattisgarh", "Odisha"],
+        "correctAnswer": "Madhya Pradesh"
+      },
+      {
+        "id": 22,
+        "question": "The Indian state of Tripura shares its border with which country?",
+        "options": ["Bangladesh", "Myanmar", "Bhutan", "Nepal"],
+        "correctAnswer": "Bangladesh"
+      },
+      {
+        "id": 23,
+        "question": "Who was the first Chief Justice of India?",
+        "options": ["H. J. Kania", "B. N. Rau", "P. N. Bhagwati", "M. Hidayatullah"],
+        "correctAnswer": "H. J. Kania"
+      },
+      {
+        "id": 24,
+        "question": "Which chemical element is named after a planet?",
+        "options": ["Mercury", "Plutonium", "Neptunium", "All of the above"],
+        "correctAnswer": "All of the above"
+      },
+      {
+        "id": 25,
+        "question": "Which year marked the first nuclear test conducted by India?",
+        "options": ["1974", "1965", "1998", "1984"],
+        "correctAnswer": "1974"
+      },
+      {
+        "id": 26,
+        "question": "Which was the first state in India to implement the Panchayati Raj system?",
+        "options": ["Rajasthan", "Gujarat", "Kerala", "Maharashtra"],
+        "correctAnswer": "Rajasthan"
+      },
+      {
+        "id": 27,
+        "question": "Who coined the term 'Geography'?",
+        "options": ["Eratosthenes", "Herodotus", "Aristotle", "Ptolemy"],
+        "correctAnswer": "Eratosthenes"
+      },
+      {
+        "id": 28,
+        "question": "Which is the largest gland in the human body?",
+        "options": ["Liver", "Pancreas", "Thyroid", "Pituitary"],
+        "correctAnswer": "Liver"
+      },
+      {
+        "id": 29,
+        "question": "The famous battle of Panipat was fought in which year?",
+        "options": ["1526", "1556", "1761", "1947"],
+        "correctAnswer": "1761"
+      },
+      {
+        "id": 30,
+        "question": "Which of the following is an example of a renewable energy source?",
+        "options": ["Wind Energy", "Nuclear Energy", "Coal", "Natural Gas"],
+        "correctAnswer": "Wind Energy"
+      },
+      {
+        "id": 31,
+        "question": "Which monument in India was declared a UNESCO World Heritage Site in 1983?",
+        "options": ["Taj Mahal", "Red Fort", "Qutub Minar", "Humayun's Tomb"],
+        "correctAnswer": "Taj Mahal"
+      },
+      {
+        "id": 32,
+        "question": "Who discovered the planet Uranus?",
+        "options": ["Galileo Galilei", "Edmond Halley", "William Herschel", "Johannes Kepler"],
+        "correctAnswer": "William Herschel"
+      },
+      {
+        "id": 33,
+        "question": "What was India's share of global GDP during the colonial period in 1900?",
+        "options": ["1.9%", "3%", "5%", "7.6%"],
+        "correctAnswer": "1.9%"
+      },
+      {
+        "id": 34,
+        "question": "Who was the first recipient of the Bharat Ratna Award?",
+        "options": ["C. Rajagopalachari", "Dr. S. Radhakrishnan", "C. V. Raman", "Jawaharlal Nehru"],
+        "correctAnswer": "C. Rajagopalachari"
+      },
+      {
+        "id": 35,
+        "question": "Which Amendment Act of the Indian Constitution is related to 'Right to Education'?",
+        "options": ["86th Amendment", "73rd Amendment", "42nd Amendment", "61st Amendment"],
+        "correctAnswer": "86th Amendment"
+      },
+      {
+        "id": 36,
+        "question": "Which of the following Indian economists won the Nobel Prize for Economics?",
+        "options": ["Amartya Sen", "Manmohan Singh", "Raghuram Rajan", "Kaushik Basu"],
+        "correctAnswer": "Amartya Sen"
+      },
+      {
+        "id": 37,
+        "question": "In which year did India become a full member of the United Nations?",
+        "options": ["1945", "1950", "1947", "1952"],
+        "correctAnswer": "1945"
+      },
+      {
+        "id": 38,
+        "question": "Who is considered the architect of the Indian Constitution?",
+        "options": ["B. R. Ambedkar", "Jawaharlal Nehru", "Rajendra Prasad", "Sardar Patel"],
+        "correctAnswer": "B. R. Ambedkar"
+      },
+      {
+        "id": 39,
+        "question": "Which strait separates India and Sri Lanka?",
+        "options": ["Palk Strait", "Strait of Hormuz", "Bab el Mandeb", "Bosporus Strait"],
+        "correctAnswer": "Palk Strait"
+      },
+      {
+        "id": 40,
+        "question": "Who was the first woman to become the Speaker of the Lok Sabha?",
+        "options": ["Meira Kumar", "Indira Gandhi", "Vijaya Lakshmi Pandit", "Sumitra Mahajan"],
+        "correctAnswer": "Meira Kumar"
+      },
+      {
+        "id": 41,
+        "question": "The Khilafat Movement was launched to protest against the humiliation of which empire?",
+        "options": ["Ottoman Empire", "British Empire", "Mughal Empire", "Russian Empire"],
+        "correctAnswer": "Ottoman Empire"
+      },
+      {
+        "id": 42,
+        "question": "Which city is known as the 'Manchester of South India'?",
+        "options": ["Chennai", "Coimbatore", "Hyderabad", "Bengaluru"],
+        "correctAnswer": "Coimbatore"
+      },
+      {
+        "id": 43,
+        "question": "Which Viceroy of India was responsible for the abolition of Sati?",
+        "options": ["Lord Dalhousie", "Lord Canning", "Lord William Bentinck", "Lord Cornwallis"],
+        "correctAnswer": "Lord William Bentinck"
+      },
+      {
+        "id": 44,
+        "question": "Who is the author of the book 'The Argumentative Indian'?",
+        "options": ["Amartya Sen", "Salman Rushdie", "V. S. Naipaul", "Ramachandra Guha"],
+        "correctAnswer": "Amartya Sen"
+      },
+      {
+        "id": 45,
+        "question": "Which Article of the Indian Constitution deals with the Election Commission of India?",
+        "options": ["Article 324", "Article 356", "Article 368", "Article 12"],
+        "correctAnswer": "Article 324"
+      },
+      {
+        "id": 46,
+        "question": "The Treaty of Alinagar was signed between the Nawab of Bengal and which country?",
+        "options": ["France", "Britain", "Portugal", "Netherlands"],
+        "correctAnswer": "Britain"
+      },
+      {
+        "id": 47,
+        "question": "Which of the following animals is used as the symbol of the Reserve Bank of India?",
+        "options": ["Lion", "Elephant", "Tiger", "Leopard"],
+        "correctAnswer": "Tiger"
+      },
+      {
+        "id": 48,
+        "question": "Which Indian mountain range is the oldest?",
+        "options": ["Aravalli", "Himalayas", "Vindhyas", "Western Ghats"],
+        "correctAnswer": "Aravalli"
+      },
+      {
+        "id": 49,
+        "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+        "options": ["Punjab", "Uttar Pradesh", "Haryana", "Rajasthan"],
+        "correctAnswer": "Punjab"
+      },
+      {
+        "id": 50,
+        "question": "Which ruler started the 'Din-i Ilahi' religion?",
+        "options": ["Akbar", "Aurangzeb", "Babur", "Jahangir"],
+        "correctAnswer": "Akbar"
+      }
+    ]
+  }
+  
